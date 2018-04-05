@@ -1,0 +1,13 @@
+@font-face{
+    font-family: 'Easy Reading';
+    src: url('easyreading/normal/EasyReading.ttf');
+}
+
+body{
+    margin: 0;
+    font-family: 'Easy Reading';
+}
+
+canvas{
+    border: 1px solid grey;
+}
